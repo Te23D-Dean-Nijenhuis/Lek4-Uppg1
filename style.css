@@ -1,0 +1,58 @@
+body 
+{
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBOJR2CI4Hs8SqvnYk4_3iiRrBRsi6AiUz7hvfAWRyCHWAPs63p_yXXfuEgC9DVGdUyuCm13aLwvN3E2N33_G-WxLo20BLEM_SIyIL9cOTzwRXU=w942-h912);
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+
+#rubrik
+{
+    font-size: 2em;
+    font-family: 'Roboto mono', Arial;
+    background-color: rgb(255, 255, 0);
+
+    color: rgb(0, 0, 255);
+    border: 3px solid black;
+    border-radius: 2px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+}
+.HTML5
+{
+    font-size:small;
+    background-color: #aaa8a8;
+    border: 3px solid black;
+    text-align: left;
+    margin: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+.CSS3
+{
+    font-size:small;
+    background-color: #aaa8a8;
+    border: 3px solid black;
+    text-align: left;
+    margin: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+.JAVA
+{
+    font-size:small;
+    background-color: #aaa8a8;
+    border: 3px solid black;
+    text-align: left;
+    margin: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
